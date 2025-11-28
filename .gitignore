@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Data and model files (optional, if too big)
+data/
+models/
+
+# VS Code settings
+.vscode/
